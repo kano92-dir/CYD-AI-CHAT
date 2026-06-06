@@ -1,5 +1,6 @@
 <p align="center">
   <img src="media/start.gif" width="320">
+   <img src="media/models.gif" width="320">
 </p>
 
 # CYD AI Chat
