@@ -7,7 +7,7 @@
      * Telefon benzeri ekran klavyesi + Turkce karakterler
      * Yeni arayuz: avatarlar, baloncuklar, cizilmis ikonlar
      * SOHBET HAFIZASI: konusma NVS'e kaydolur, acilista devam eder
-     * KISILIK (persona) secimi, PARLAKLIK ayari, RGB LED durum isigi
+     * KISILIK (persona) secimi, PARLAKLIK ayari, RGB LED durum isigi.
    ---------------------------------------------------------------------
    ILK KURULUM: 1) Asagidaki API_KEY satirina kendi anahtarini yapistir.
                 2) TFT_eSPI icindeki User_Setup.h'yi proje dosyasiyla degistir.
