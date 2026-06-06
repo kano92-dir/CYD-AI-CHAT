@@ -1,4 +1,6 @@
-![CYD AI Chat Demo](start.gif)
+<p align="center">
+  <img src="media/start.gif" width="320">
+</p>
 
 # CYD AI Chat
 
