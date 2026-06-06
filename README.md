@@ -3,7 +3,7 @@
    <img src="media/demo-chat.gif" width="320">
 </p>
 
-# CYD AI Chat
+# CYD AI Chat (%100 FREE MODELS)
 
 > Turn your Cheap Yellow Display (ESP32-2432S028R) into a powerful AI-powered smart terminal.
 
